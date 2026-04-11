@@ -25,7 +25,8 @@ This portfolio represents my journey, showcasing my projects, skills, and growth
 ✔️ Contact Form
 
 📸 Preview
-<p align="center"> <img src="https://github.com/user-attachments/assets/4e7e777b-6c70-4fdc-ae9c-7d7b48bdaa95" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/7c7718b1-d84d-4a6c-bdcf-28c90dce1c9a" />
+" />
 " width="80%" /> </p>
 
 
