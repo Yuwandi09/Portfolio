@@ -1,64 +1,47 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6677c046-9e24-4942-97c6-0416253dfacb/deploy-status)](https://app.netlify.com/sites/saikatroy/deploys)
+🌐 Yuwandi Sandanayake Personal Portfolio
 
- #🌐 Yuwandi Sandanayake Personal Portfolio
+<p align="center"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=for-the-badge" /> </p>
 
-Welcome to my personal portfolio repository!
-This project showcases my skills, projects, and experience in programming and web development. It reflects my passion for building creative solutions and continuously improving as a developer.
+👋 About Me
 
-🚀 Live Demo : https://yuwandi09.github.io/Portfolio/
+I’m a passionate developer with a strong interest in programming and creative problem-solving.
+This portfolio represents my journey, showcasing my projects, skills, and growth in web development.
+
+🚀 Live Demo
+
+🔗 View Portfolio
+
+(https://yuwandi09.github.io/Portfolio/)
 
 🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript, React
-Backend: (Add if you used any, e.g., Node.js)
-Tools: Git, GitHub, VS Code
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,vscode" /> </p>
+✨ Features
 
-📌 Features
-Responsive and modern UI
-Projects showcase section
-Skills and experience overview
-Contact section
-Smooth navigation and clean design
+✔️ Responsive Design
+✔️ Modern UI/UX
+✔️ Project Showcase
+✔️ Skills Section
+✔️ Contact Form
 
-📸 Screenshots
-<img width="1887" height="913" alt="image" src="https://github.com/user-attachments/assets/4c68f7a1-1820-48cc-98a3-c0195dc90012" />
+📸 Preview
+<p align="center"> <img src="https://github.com/user-attachments/assets/4e7e777b-6c70-4fdc-ae9c-7d7b48bdaa95" />
+" width="80%" /> </p>
 
-📁 Project Structure
-portfolio/
-│── public/
-│── src/
-│   ├── components/
-│   ├── pages/
-│   └── assets/
-│── package.json
-│── README.md
-⚙️ Installation & Setup
 
-To run this project locally:
-
-# Clone the repository
+⚙️ Installation
 git clone https://github.com/yuwandi09/portfolio.git
-
-# Navigate to the project folder
 cd portfolio
-
-# Install dependencies
 npm install
-
-# Start the development server
 npm start
 
-🎯 Goals
-Improve my development skills
-Build real-world projects
-Create meaningful and user-friendly applications
+🎯 Future Improvements
+Add more advanced projects
+Improve UI animations
+Optimize performance
 
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
+🤝 Connect With Me
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:yuwandisanadanayake@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a> </p>
+⭐ Support
 
-📬 Contact
-Email: yuwandisandanayake@gmail.com
-LinkedIn: (www.linkedin.com/in/yuwandi)
-GitHub: (https://github.com/Yuwandi09)
-⭐ Show Your Support
-
-If you like this project, feel free to ⭐ the repo!
+If you like this project, give it a ⭐ and support my work!
